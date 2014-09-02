@@ -13,5 +13,5 @@ and on [msdn.microsoft.com][]
 
 Metro UI CSS has MIT License
 
-  [metroui.org.ua]: http://metroui.org.ua
+  [metroui.org.ua]: http://metroui.org.ua/global.html
   [msdn.microsoft.com]: http://msdn.microsoft.com/library/windows/apps/ff402557%28v=vs.105%29.aspx
