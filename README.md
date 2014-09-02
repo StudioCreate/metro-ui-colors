@@ -7,8 +7,11 @@ The color definitions taken from Metro UI CSS.
 
 See details on [metroui.org.ua][]
 
+and on [msdn.microsoft.com][]
+
 # License
 
 Metro UI CSS has MIT License
 
   [metroui.org.ua]: http://metroui.org.ua
+  [msdn.microsoft.com]: http://msdn.microsoft.com/library/windows/apps/ff402557%28v=vs.105%29.aspx
