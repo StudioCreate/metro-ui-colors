@@ -1,49 +1,49 @@
 GIMP Palette
 Name: metro-ui-colors
 #
-  0   0   0	Color 1
-255 255 255	Color 2
-164 196   0	Color 3
- 96 169  23	Color 4
-  0 138   0	Color 5
-  0 171 169	Color 6
- 27 161 226	Color 7
-  0  80 239	Color 8
-106   0 255	Color 9
-170   0 255	Color 10
-220  79 173	Color 11
-216   0 115	Color 12
-162   0  37	Color 13
-229  20   0	Color 14
-250 104   0	Color 15
-240 163  10	Color 16
-227 200   0	Color 17
-130  90  44	Color 18
-109 135 100	Color 19
-100 118 135	Color 20
-118  96 138	Color 21
-135 121  78	Color 22
- 85  85  85	Color 23
- 51  51  51	Color 24
- 34  34  34	Color 25
- 99  54  47	Color 26
-100   0  36	Color 27
-129   0  60	Color 28
- 75   0 150	Color 29
- 27 110 174	Color 30
-  0  53 106	Color 31
-  0  64  80	Color 32
-  0  62   0	Color 33
- 18 128  35	Color 34
-191  90  21	Color 35
-154  22  22	Color 36
-154  22  90	Color 37
- 87  22 154	Color 38
- 22  73 154	Color 39
- 67 144 223	Color 40
- 69 255 253	Color 41
-120 170  28	Color 42
-194 144   8	Color 43
-244 114 208	Color 44
-255  45  25	Color 45
-122 214  29	Color 46
+  0   0   0	black
+255 255 255	white
+164 196   0	lime
+ 96 169  23	green
+  0 138   0	emerald
+  0 171 169	teal
+ 27 161 226	cyan
+  0  80 239	cobalt
+106   0 255	indigo
+170   0 255	violet
+220  79 173	pink
+216   0 115	magenta
+162   0  37	crimson
+229  20   0	red
+250 104   0	orange
+240 163  10	amber
+227 200   0	yellow
+130  90  44	brown
+109 135 100	olive
+100 118 135	steel
+118  96 138	mauve
+135 121  78	taupe
+ 85  85  85	gray
+ 51  51  51	dark
+ 34  34  34	darker
+ 99  54  47	darkBrown
+100   0  36	darkCrimson
+129   0  60	darkMagenta
+ 75   0 150	darkIndigo
+ 27 110 174	darkCyan
+  0  53 106	darkCobalt
+  0  64  80	darkTeal
+  0  62   0	darkEmerald
+ 18 128  35	darkGreen
+191  90  21	darkOrange
+154  22  22	darkRed
+154  22  90	darkPink
+ 87  22 154	darkViolet
+ 22  73 154	darkBlue
+ 67 144 223	lightBlue
+ 69 255 253	lightTeal
+120 170  28	lightOlive
+194 144   8	lightOrange
+244 114 208	lightPink
+255  45  25	lightRed
+122 214  29	lightGreen
