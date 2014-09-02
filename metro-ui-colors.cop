@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ColorBugPalettes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <ColorPalette Title="metro-ui-colors.css">
+  <ColorPalette Title="metro-ui-colors">
     <Colors>
-      <Color HexColor="#000000" Title="Color 1" />
-      <Color HexColor="#ffffff" Title="Color 2" />
-      <Color HexColor="#a4c400" Title="Color 3" />
-      <Color HexColor="#60a917" Title="Color 4" />
-      <Color HexColor="#008a00" Title="Color 5" />
-      <Color HexColor="#00aba9" Title="Color 6" />
-      <Color HexColor="#1ba1e2" Title="Color 7" />
-      <Color HexColor="#0050ef" Title="Color 8" />
-      <Color HexColor="#6a00ff" Title="Color 9" />
-      <Color HexColor="#aa00ff" Title="Color 10" />
-      <Color HexColor="#dc4fad" Title="Color 11" />
-      <Color HexColor="#d80073" Title="Color 12" />
-      <Color HexColor="#a20025" Title="Color 13" />
-      <Color HexColor="#e51400" Title="Color 14" />
-      <Color HexColor="#fa6800" Title="Color 15" />
-      <Color HexColor="#f0a30a" Title="Color 16" />
-      <Color HexColor="#e3c800" Title="Color 17" />
-      <Color HexColor="#825a2c" Title="Color 18" />
-      <Color HexColor="#6d8764" Title="Color 19" />
-      <Color HexColor="#647687" Title="Color 20" />
-      <Color HexColor="#76608a" Title="Color 21" />
-      <Color HexColor="#87794e" Title="Color 22" />
-      <Color HexColor="#555555" Title="Color 23" />
-      <Color HexColor="#333333" Title="Color 24" />
-      <Color HexColor="#222222" Title="Color 25" />
-      <Color HexColor="#63362f" Title="Color 26" />
-      <Color HexColor="#640024" Title="Color 27" />
-      <Color HexColor="#81003c" Title="Color 28" />
-      <Color HexColor="#4b0096" Title="Color 29" />
-      <Color HexColor="#1b6eae" Title="Color 30" />
-      <Color HexColor="#00356a" Title="Color 31" />
-      <Color HexColor="#004050" Title="Color 32" />
-      <Color HexColor="#003e00" Title="Color 33" />
-      <Color HexColor="#128023" Title="Color 34" />
-      <Color HexColor="#bf5a15" Title="Color 35" />
-      <Color HexColor="#9a1616" Title="Color 36" />
-      <Color HexColor="#9a165a" Title="Color 37" />
-      <Color HexColor="#57169a" Title="Color 38" />
-      <Color HexColor="#16499a" Title="Color 39" />
-      <Color HexColor="#4390df" Title="Color 40" />
-      <Color HexColor="#45fffd" Title="Color 41" />
-      <Color HexColor="#78aa1c" Title="Color 42" />
-      <Color HexColor="#c29008" Title="Color 43" />
-      <Color HexColor="#f472d0" Title="Color 44" />
-      <Color HexColor="#ff2d19" Title="Color 45" />
-      <Color HexColor="#7ad61d" Title="Color 46" />
+      <Color HexColor="#000000" Title="black" />
+      <Color HexColor="#ffffff" Title="white" />
+      <Color HexColor="#a4c400" Title="lime" />
+      <Color HexColor="#60a917" Title="green" />
+      <Color HexColor="#008a00" Title="emerald" />
+      <Color HexColor="#00aba9" Title="teal" />
+      <Color HexColor="#1ba1e2" Title="cyan" />
+      <Color HexColor="#0050ef" Title="cobalt" />
+      <Color HexColor="#6a00ff" Title="indigo" />
+      <Color HexColor="#aa00ff" Title="violet" />
+      <Color HexColor="#dc4fad" Title="pink" />
+      <Color HexColor="#d80073" Title="magenta" />
+      <Color HexColor="#a20025" Title="crimson" />
+      <Color HexColor="#e51400" Title="red" />
+      <Color HexColor="#fa6800" Title="orange" />
+      <Color HexColor="#f0a30a" Title="amber" />
+      <Color HexColor="#e3c800" Title="yellow" />
+      <Color HexColor="#825a2c" Title="brown" />
+      <Color HexColor="#6d8764" Title="olive" />
+      <Color HexColor="#647687" Title="steel" />
+      <Color HexColor="#76608a" Title="mauve" />
+      <Color HexColor="#87794e" Title="taupe" />
+      <Color HexColor="#555555" Title="gray" />
+      <Color HexColor="#333333" Title="dark" />
+      <Color HexColor="#222222" Title="darker" />
+      <Color HexColor="#63362f" Title="darkBrown" />
+      <Color HexColor="#640024" Title="darkCrimson" />
+      <Color HexColor="#81003c" Title="darkMagenta" />
+      <Color HexColor="#4b0096" Title="darkIndigo" />
+      <Color HexColor="#1b6eae" Title="darkCyan" />
+      <Color HexColor="#00356a" Title="darkCobalt" />
+      <Color HexColor="#004050" Title="darkTeal" />
+      <Color HexColor="#003e00" Title="darkEmerald" />
+      <Color HexColor="#128023" Title="darkGreen" />
+      <Color HexColor="#bf5a15" Title="darkOrange" />
+      <Color HexColor="#9a1616" Title="darkRed" />
+      <Color HexColor="#9a165a" Title="darkPink" />
+      <Color HexColor="#57169a" Title="darkViolet" />
+      <Color HexColor="#16499a" Title="darkBlue" />
+      <Color HexColor="#4390df" Title="lightBlue" />
+      <Color HexColor="#45fffd" Title="lightTeal" />
+      <Color HexColor="#78aa1c" Title="lightOlive" />
+      <Color HexColor="#c29008" Title="lightOrange" />
+      <Color HexColor="#f472d0" Title="lightPink" />
+      <Color HexColor="#ff2d19" Title="lightRed" />
+      <Color HexColor="#7ad61d" Title="lightGreen" />
     </Colors>
   </ColorPalette>
 </ColorBugPalettes>
