@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ColorBugPalettes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ColorPalette Title="Windows Phone 8 official colors">
+    <Colors>
+      <Color HexColor="#a3c315" Title="Lime" />
+      <Color HexColor="#5ea81e" Title="Green" />
+      <Color HexColor="#00890a" Title="Emerald" />
+      <Color HexColor="#00aaa8" Title="Teal" />
+      <Color HexColor="#1ea1e0" Title="Cyan" />
+      <Color HexColor="#0f51ed" Title="Cobalt" />
+      <Color HexColor="#6b0ffd" Title="Indigo" />
+      <Color HexColor="#aa0ffd" Title="Violet" />
+      <Color HexColor="#f472ce" Title="Pink" />
+      <Color HexColor="#d70472" Title="Magenta" />
+      <Color HexColor="#a10124" Title="Crimson" />
+      <Color HexColor="#e41502" Title="Red" />
+      <Color HexColor="#f96707" Title="Orange" />
+      <Color HexColor="#efa216" Title="Amber" />
+      <Color HexColor="#d7c014" Title="Yellow" />
+      <Color HexColor="#81592c" Title="Brown" />
+      <Color HexColor="#6c8664" Title="Olive" />
+      <Color HexColor="#637586" Title="Steel" />
+      <Color HexColor="#756089" Title="Mauve" />
+      <Color HexColor="#9f512d" Title="Sienna" />
+    </Colors>
+  </ColorPalette>
+</ColorBugPalettes>
